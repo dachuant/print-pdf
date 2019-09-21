@@ -1,0 +1,13 @@
+python .\main.py -f 'D:/开户照片/1/单位保证金账户开户通知书.pdf' -p 'Microsoft Print to PDF'
+python .\main.py -f 'D:/项目计划管理/人民币管理基础数据云平台/文档/机具品牌.pdf' -p 'Microsoft Print to PDF'
+
+
+python .\main.py -f 'D:\tmp\对公客户信息采集表.pdf' -p 'Microsoft Print to PDF'
+
+
+main.exe -f "D:/开户照片/1/单位保证金账户开户通知书.pdf" -p "Microsoft Print to PDF"
+
+
+main.exe -f "D:/开户照片/1/单位保证金账户开户通知书.pdf" -p "Xerox WorkCentre 7500 Series Class Driver"
+
+Xerox WorkCentre 7500 Series Class Driver
